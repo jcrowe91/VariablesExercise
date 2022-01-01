@@ -1,0 +1,16 @@
+C:\Users\jcrow\repos\VariablesExercise\VariablesExerciseProject\VariablesExerciseConsole\bin\Debug\net5.0\VariablesExerciseConsole.exe
+C:\Users\jcrow\repos\VariablesExercise\VariablesExerciseProject\VariablesExerciseConsole\bin\Debug\net5.0\VariablesExerciseConsole.deps.json
+C:\Users\jcrow\repos\VariablesExercise\VariablesExerciseProject\VariablesExerciseConsole\bin\Debug\net5.0\VariablesExerciseConsole.runtimeconfig.json
+C:\Users\jcrow\repos\VariablesExercise\VariablesExerciseProject\VariablesExerciseConsole\bin\Debug\net5.0\VariablesExerciseConsole.runtimeconfig.dev.json
+C:\Users\jcrow\repos\VariablesExercise\VariablesExerciseProject\VariablesExerciseConsole\bin\Debug\net5.0\VariablesExerciseConsole.dll
+C:\Users\jcrow\repos\VariablesExercise\VariablesExerciseProject\VariablesExerciseConsole\bin\Debug\net5.0\ref\VariablesExerciseConsole.dll
+C:\Users\jcrow\repos\VariablesExercise\VariablesExerciseProject\VariablesExerciseConsole\bin\Debug\net5.0\VariablesExerciseConsole.pdb
+C:\Users\jcrow\repos\VariablesExercise\VariablesExerciseProject\VariablesExerciseConsole\obj\Debug\net5.0\VariablesExerciseConsole.csproj.AssemblyReference.cache
+C:\Users\jcrow\repos\VariablesExercise\VariablesExerciseProject\VariablesExerciseConsole\obj\Debug\net5.0\VariablesExerciseConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcrow\repos\VariablesExercise\VariablesExerciseProject\VariablesExerciseConsole\obj\Debug\net5.0\VariablesExerciseConsole.AssemblyInfoInputs.cache
+C:\Users\jcrow\repos\VariablesExercise\VariablesExerciseProject\VariablesExerciseConsole\obj\Debug\net5.0\VariablesExerciseConsole.AssemblyInfo.cs
+C:\Users\jcrow\repos\VariablesExercise\VariablesExerciseProject\VariablesExerciseConsole\obj\Debug\net5.0\VariablesExerciseConsole.csproj.CoreCompileInputs.cache
+C:\Users\jcrow\repos\VariablesExercise\VariablesExerciseProject\VariablesExerciseConsole\obj\Debug\net5.0\VariablesExerciseConsole.dll
+C:\Users\jcrow\repos\VariablesExercise\VariablesExerciseProject\VariablesExerciseConsole\obj\Debug\net5.0\ref\VariablesExerciseConsole.dll
+C:\Users\jcrow\repos\VariablesExercise\VariablesExerciseProject\VariablesExerciseConsole\obj\Debug\net5.0\VariablesExerciseConsole.pdb
+C:\Users\jcrow\repos\VariablesExercise\VariablesExerciseProject\VariablesExerciseConsole\obj\Debug\net5.0\VariablesExerciseConsole.genruntimeconfig.cache
